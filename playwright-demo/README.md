@@ -18,3 +18,4 @@ This project demonstrates a very basic understanding of Playwright.
 ## Demo
 
 ![demonstration of playwright running in localhost](playwright_screenshot.png)
+![demonstration of playwright running tests](playwright_tests.png)
