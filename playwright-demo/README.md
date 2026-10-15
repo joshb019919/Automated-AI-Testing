@@ -1,2 +1,3 @@
-# Automated-AI-Testing
-A collection of demonstrations regarding automated AI testing, including Playwright, Locust, local automation with Ollama, and others.
+# Playwright Tests of TODO List
+
+This project demonstrates a very basic understanding of Playwright.
